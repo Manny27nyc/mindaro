@@ -5,7 +5,7 @@
         "nodemon": "^2.0.4"
     },
     "dependencies": {
-        "redis": "^3.0.2",
+        "redis": "^4.0.0",
         "servicebus": "^2.3.3"
     },
     "main": "worker.js",
