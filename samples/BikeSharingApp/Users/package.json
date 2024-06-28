@@ -15,7 +15,7 @@
   "author": "Bridge to Kubernetes",
   "license": "MIT",
   "dependencies": {
-    "express": "^4.14.0",
+    "express": "^4.19.2",
     "morgan": "^1.8.0",
     "express-api-validator": "0.1.0",
     "body-parser": "^1.16.1",
@@ -25,7 +25,7 @@
     "async": "^2.1.5"
   },
   "devDependencies": {
-    "nodemon": "^1.18.10"
+    "nodemon": "^3.1.4"
   },
   "bugs": {
     "url": "https://github.com/microsoft/mindaro/issues"
